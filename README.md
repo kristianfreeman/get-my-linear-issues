@@ -26,8 +26,8 @@ $ npm start
 The script will output the issues assigned to the user, in JSON:
 
 ```jsonc
-{ "data": 
-  [
+{ 
+  "data": [
     {
       // ...
     }
